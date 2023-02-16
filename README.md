@@ -8,7 +8,7 @@
 
 Note: if you want to create your website using Jekyll, **you are absolutely welcome to!**
 
-## Directions :information_source:
+## Directions
 
 0. Create a GitHub account and [generate a token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 1. Fork this repository
