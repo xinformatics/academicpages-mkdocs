@@ -1,12 +1,12 @@
 # General
-site_name: "Your Name / Site Title"
-site_description: 'Short Description'
-site_author: 'FirstName LastName'
-site_url: https://cosimichele.github.io/academicpages-mkdocs
+site_name: "Shashank's Website"
+site_description: 'Academic Website test'
+site_author: 'Shashank Yadav'
+site_url: https://xinformatics.github.io/academicpages-mkdocs
 
 # Repository
-repo_name: RepoName
-repo_url: https://github.com/CosiMichele/academicpages-mkdocs
+repo_name: academicpages-mkdocs
+repo_url: https://github.com/xinformatics/academicpages-mkdocs
 edit_uri: edit/main/docs/
 
 # Configuration
