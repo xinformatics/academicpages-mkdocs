@@ -1,8 +1,8 @@
-# academicpages-mkdocs :book:
+# academicpages-mkdocs
 
 :wave: Welcome to **academicpages-mkdocs**! This repository has been designed for learners of the [FOSS](https://foss.cyverse.org/) course and is based on [academicpages](https://academicpages.github.io/)([git repo](https://github.com/academicpages/academicpages.github.io)).
 
-## Why? :thinking:
+## Why?
 
 [academicpages](https://academicpages.github.io/) is a great way to get yourself started with documentation, whether you're documenting yours or your laboratory's progress, built using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Although a great starting point, Jekyll might require a little more knowledge of HTML and JSON, whilst [MkDocs-material](https://squidfunk.github.io/mkdocs-material/getting-started/) relies completely on the MarkDown language, making it a lot easier for beginners to start building their website, documenting their work and sharing their progress.
 
